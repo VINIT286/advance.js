@@ -1,0 +1,44 @@
+body{
+    background-color: skyblue;
+}
+.form div{
+    margin: 10px;
+}
+.form{
+    margin: 100px;
+    background-color: white;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px 0px 40px 0px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 10px 10px rgb(161, 159, 159);
+    background-image: url(./image2.jpg);
+}
+.form div input{
+    padding: 10px;
+    width: 300px;
+    border: none;
+    outline: none;
+    background-color: aliceblue;
+    box-shadow: 0px 0px 3px 2px;
+    border-radius: 20px;
+    color: black;
+}
+.form div button{
+    padding: 10px;
+    width: 100px;
+    background-color: skyblue;
+    box-shadow: 0px 0px 3px 2px rgb(161, 159, 159);
+    border-radius: 20px;
+    border: none;
+    outline: none;
+}
+ .form div h1{
+    color: black;
+} 
+
+.form div input::placeholder{
+    color: black;
+}
