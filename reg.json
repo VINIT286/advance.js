@@ -1,10 +1,26 @@
 {
   "registration": [
     {
-      "id": "b8d6",
       "sname": "deepak",
-      "email": "vinitgandhe10301@gamil.com",
+      "email": "deepak10301@gamil.com",
       "mobile": "1234567891",
+      "pass": "123",
+      "cpass": "123",
+      "id": "b8d6"
+    },
+    {
+      "sname": "vineet",
+      "email": "vinitgandhe10301@gamil.com",
+      "mobile": "9087654321",
+      "pass": "123",
+      "cpass": "123",
+      "id": "dce3"
+    },
+    {
+      "id": "2e44",
+      "sname": "amit",
+      "email": "amit10301@gamil.com",
+      "mobile": "9087654321",
       "pass": "123",
       "cpass": "123"
     }
