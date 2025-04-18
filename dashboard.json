@@ -1,0 +1,12 @@
+{
+  "course": [
+    {
+      "id": "fb18",
+      "cname": "python",
+      "cprice": "1110",
+      "ctname": "vinit sir",
+      "cduration": "12 months",
+      "cdiscount": "10%"
+    }
+  ]
+}

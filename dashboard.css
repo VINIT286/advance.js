@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.aside{
+    background-color: black;
+    width: 200px;
+    float: left;
+    height: 100vh;
+}
+.aside ul li a{
+    color: yellow;
+}
+#addform{
+    display: none;
+    position: absolute;
+    top: 100px;
+    left: 400px;
+}
