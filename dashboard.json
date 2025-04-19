@@ -7,6 +7,15 @@
       "ctname": "vinit sir",
       "cduration": "12 months",
       "cdiscount": "10%"
+    },
+    {
+      "id": "ec0a",
+      "cname": "",
+      "cprice": "",
+      "ctname": "",
+      "cduration": "",
+      "cdiscount": ""
     }
-  ]
+  ],
+  "userData": []
 }
