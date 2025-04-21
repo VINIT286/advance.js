@@ -3,11 +3,39 @@
     padding: 0px;
 }
 .aside{
-    background-color: black;
+    background-color: rgb(251, 249, 249);
     width: 200px;
     float: left;
     height: 100vh;
+    color: black;
+    display: block;
+    padding: 20px;
 }
+
+.aside h2 {
+    color: #dcdde1;
+    padding: 10px 15px;
+    margin: 5px 0;
+    display: block;
+    border-radius: 5px;
+  }
+
+  .aside a {
+    margin-bottom: 30px;
+    font-size: 24px;
+    text-align: center;
+    color: black;
+    font-weight:bolder;
+  }
+  
+  .head{
+    background-color: rgb(251, 249, 249);
+    padding: 15px 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
 .aside ul li a{
     color: yellow;
 }

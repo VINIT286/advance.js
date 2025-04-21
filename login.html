@@ -4,13 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="./login.css">
 </head>
 <body>
-    login
-    <input type="text" name="" id="">
-    <input type="text" name="" id="">
-    <button onclick="lo()">login</button>
-    <a href="./registration.html">sign up</a>
+    <form class="form" align="center">
+        <div><h1>Login Form </h1></div>
+        <div><input type="text" id="sname" placeholder="User Name"></div>
+        <div><input type="text" id="email" placeholder="User Email"></div>
+        <div><input type="text"id="pass" placeholder="Enter your password"></div>
+        <div><button onclick="vg()"> Submit </button></div>
+        <button type="button" onclick="lo()">login</button>
+        <a href="./reg.html">sign up</a>
+    </form>
     <script>
         function lo(){
             window.location.href="./dashboard.html"

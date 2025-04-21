@@ -1,21 +1,29 @@
 {
-  "course": [
+  "course": [],
+  "userData": [
     {
-      "id": "fb18",
-      "cname": "python",
-      "cprice": "1110",
-      "ctname": "vinit sir",
-      "cduration": "12 months",
-      "cdiscount": "10%"
+      "id": "da24",
+      "sname": "",
+      "email": "",
+      "mobile": "",
+      "pass": "",
+      "cpass": ""
     },
     {
-      "id": "ec0a",
-      "cname": "",
-      "cprice": "",
-      "ctname": "",
-      "cduration": "",
-      "cdiscount": ""
+      "id": "2e6a",
+      "sname": "amit",
+      "email": "vinitgandhe10301@gamil.com",
+      "mobile": "9087654321",
+      "pass": "123",
+      "cpass": "123"
+    },
+    {
+      "id": "d882",
+      "sname": "",
+      "email": "",
+      "mobile": "",
+      "pass": "",
+      "cpass": ""
     }
-  ],
-  "userData": []
+  ]
 }
